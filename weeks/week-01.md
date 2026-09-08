@@ -12,6 +12,11 @@ permalink: /weeks/week-01/
 ## TRACE｜痕跡
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+![共同繪製的教室導航地圖]({{ '/assets/images/0908-1.JPG' | relative_url }})
+今日工作坊的規則說明
+
+![共同繪製的教室導航地圖]({{ '/assets/images/0908-2.JPG' | relative_url }})
+我們這組的地圖和指令標記
 
 ## FRICTION｜摩擦
 
@@ -25,5 +30,4 @@ permalink: /weeks/week-01/
 
 如果把這個發現轉化成工具、介面、規則、身體技術或作品，你下一步會測試什麼？
 
-![共同繪製的教室導航地圖]({{ '/assets/images/0908-1.JPG' | relative_url }})
-![共同繪製的教室導航地圖]({{ '/assets/images/0908-2.JPG' | relative_url }})
+
