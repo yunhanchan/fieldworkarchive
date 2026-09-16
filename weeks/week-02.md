@@ -11,10 +11,10 @@ permalink: /weeks/week-02/
 
 ## TRACE｜痕跡
 
-({{ '/assets/images/IMG_8964.JPG' | relative_url }}) 
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_8964.JPG' | relative_url }})
 校園內的裝置藝術，建立在草地上，地面有一圈步行的痕跡，裝置藝術上也有同學的聲音裝置發出聲響
 
-({{ '/assets/images/IMG_8962.JPG' | relative_url }}) 
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_8962.JPG' | relative_url }})
 地面的草地、土壤、石塊
 
 ## FRICTION｜摩擦
