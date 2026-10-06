@@ -11,7 +11,14 @@ permalink: /weeks/week-05/
 
 ## TRACE｜痕跡
 
-放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+![共同繪製的教室導航地圖]({{ '/assets/images/1006-1.JPG' | relative_url }}) C組工作坊說明
+![共同繪製的教室導航地圖]({{ '/assets/images/1006-2.JPG' | relative_url }}) C組工作坊20項物品
+![共同繪製的教室導航地圖]({{ '/assets/images/1006-3.JPG' | relative_url }}) C組工作坊學習單
+![共同繪製的教室導航地圖]({{ '/assets/images/1006-4.JPG' | relative_url }}) 從真空泵思考三個問題
+![共同繪製的教室導航地圖]({{ '/assets/images/1006-5.JPG' | relative_url }}) 工作坊器具材料
+![共同繪製的教室導航地圖]({{ '/assets/images/1006-6.JPG' | relative_url }}) 工作坊攪拌中
+![共同繪製的教室導航地圖]({{ '/assets/images/1006-7.JPG' | relative_url }}) 製作過程、我的成品、我們失敗了都一坨一坨的
+![共同繪製的教室導航地圖]({{ '/assets/images/1006-8.JPG' | relative_url }}) 大家的成品
 
 ## FRICTION｜摩擦
 
